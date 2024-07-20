@@ -8,10 +8,10 @@ Follow these steps to set up and run the project:
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/simple-todo-api-fastapi.git
+git clone https://github.com/ArchaJayakumar/todo-api-fastapi.git
 
 # Navigate to the project directory
-cd simple-todo-api-fastapi
+cd todo-api-fastapi
 
 # Create a virtual environment
 python -m venv venv
